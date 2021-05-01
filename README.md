@@ -1,6 +1,5 @@
 
 # <a name="description">
-# Description
-
+Description:
 Whiteboarding practice for interview prep. Python based
 </a>
