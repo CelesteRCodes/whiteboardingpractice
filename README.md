@@ -1,2 +1,0 @@
-# whiteboardingpractice
-Whiteboarding Practice
